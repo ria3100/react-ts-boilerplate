@@ -1,1 +1,1 @@
-export { default as Home } from '~/pages/home'
+export * from '~/pages/home'

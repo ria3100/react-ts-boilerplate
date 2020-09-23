@@ -1,5 +1,3 @@
-import React from 'react'
+import * as React from 'react'
 
-const Home = () => <div>Foo</div>
-
-export default Home
+export const Home: React.FC = () => <div>Foo</div>
